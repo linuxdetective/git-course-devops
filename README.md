@@ -1,5 +1,9 @@
-# git-course-task
-1
-2
-3
-4
+# Удаление ненужных коммитов
+
+
+
+#
+Репозиторий [https://github.com/MaksymSemenykhin/git-course-task](https://github.com/MaksymSemenykhin/git-course-task)
+
+# 
+Ветка task#1
