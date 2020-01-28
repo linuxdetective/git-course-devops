@@ -7,7 +7,7 @@
 
 # Expected result:
 - Публичный репозиторий
-- Склоненный с репозитория https://github.com/MaksymSemenykhin/git-course-task/tree/task%231
+- Склоненный с репозитория https://github.com/MaksymSemenykhin/git-course-task/tree/task%232
 - Скрипта  для работы на ubuntu сервере
 - Процедура будет работать с прод репой.
 - В runMe.sh сам скрипт
